@@ -1,5 +1,11 @@
 .wrapper {
-    background-image: url('funky-lines.png');
+    background: url('funky-lines.png');
     width: 100%;
     height: auto;
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
 }
