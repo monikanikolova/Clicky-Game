@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/emoji-images/emoji1",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/emoji-images/emoji2",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/emoji-images/emoji3",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/emoji-images/emoji4",
+        "clicked": false
+    }
+]
