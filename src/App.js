@@ -6,10 +6,6 @@ import './App.css';
 // import pictures from "./pictures.json";
 
 class App extends Component {
-    render() {
-        return (
-
-        )
-    }
+    
 }
 export default App;
