@@ -5,7 +5,7 @@ The application keeps track of the user's score. The user's score is incremented
 
 ### Demo
 
-Demo of the application: 
+Demo of the application: https://monikanikolova.github.io/Clicky-Game/
 
 ## Built With
 
